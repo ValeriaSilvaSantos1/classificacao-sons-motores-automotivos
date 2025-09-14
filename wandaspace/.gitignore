@@ -1,0 +1,34 @@
+# Ambiente virtual
+venv/
+wandaspace/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações locais
+*.env
+*.venv
+.envrc
+.env.*
+
+# Logs
+*.log
+
+# Notebooks Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
